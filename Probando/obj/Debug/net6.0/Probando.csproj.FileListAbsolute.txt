@@ -1,0 +1,15 @@
+C:\Users\JHONATAN\Desktop\Programacion I\Probando\Probando\bin\Debug\net6.0\Probando.exe
+C:\Users\JHONATAN\Desktop\Programacion I\Probando\Probando\bin\Debug\net6.0\Probando.deps.json
+C:\Users\JHONATAN\Desktop\Programacion I\Probando\Probando\bin\Debug\net6.0\Probando.runtimeconfig.json
+C:\Users\JHONATAN\Desktop\Programacion I\Probando\Probando\bin\Debug\net6.0\Probando.dll
+C:\Users\JHONATAN\Desktop\Programacion I\Probando\Probando\bin\Debug\net6.0\Probando.pdb
+C:\Users\JHONATAN\Desktop\Programacion I\Probando\Probando\obj\Debug\net6.0\Probando.csproj.AssemblyReference.cache
+C:\Users\JHONATAN\Desktop\Programacion I\Probando\Probando\obj\Debug\net6.0\Probando.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\JHONATAN\Desktop\Programacion I\Probando\Probando\obj\Debug\net6.0\Probando.AssemblyInfoInputs.cache
+C:\Users\JHONATAN\Desktop\Programacion I\Probando\Probando\obj\Debug\net6.0\Probando.AssemblyInfo.cs
+C:\Users\JHONATAN\Desktop\Programacion I\Probando\Probando\obj\Debug\net6.0\Probando.csproj.CoreCompileInputs.cache
+C:\Users\JHONATAN\Desktop\Programacion I\Probando\Probando\obj\Debug\net6.0\Probando.dll
+C:\Users\JHONATAN\Desktop\Programacion I\Probando\Probando\obj\Debug\net6.0\refint\Probando.dll
+C:\Users\JHONATAN\Desktop\Programacion I\Probando\Probando\obj\Debug\net6.0\Probando.pdb
+C:\Users\JHONATAN\Desktop\Programacion I\Probando\Probando\obj\Debug\net6.0\Probando.genruntimeconfig.cache
+C:\Users\JHONATAN\Desktop\Programacion I\Probando\Probando\obj\Debug\net6.0\ref\Probando.dll
